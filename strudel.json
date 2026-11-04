@@ -1,0 +1,991 @@
+{
+ "_base": "https://raw.githubusercontent.com/playbenny/avl-drumkits-strudel/main/",
+ "avl_pearl_stick_click": [
+  "avl_pearl_stick_click/avl_pearl_stick_click_vel013.wav",
+  "avl_pearl_stick_click/avl_pearl_stick_click_vel039.wav",
+  "avl_pearl_stick_click/avl_pearl_stick_click_vel065.wav",
+  "avl_pearl_stick_click/avl_pearl_stick_click_vel090.wav",
+  "avl_pearl_stick_click/avl_pearl_stick_click_vel115.wav"
+ ],
+ "avl_pearl_kick": [
+  "avl_pearl_kick/avl_pearl_kick_vel013.wav",
+  "avl_pearl_kick/avl_pearl_kick_vel039.wav",
+  "avl_pearl_kick/avl_pearl_kick_vel065.wav",
+  "avl_pearl_kick/avl_pearl_kick_vel090.wav",
+  "avl_pearl_kick/avl_pearl_kick_vel115.wav"
+ ],
+ "avl_pearl_side_stick": [
+  "avl_pearl_side_stick/avl_pearl_side_stick_vel013.wav",
+  "avl_pearl_side_stick/avl_pearl_side_stick_vel039.wav",
+  "avl_pearl_side_stick/avl_pearl_side_stick_vel065.wav",
+  "avl_pearl_side_stick/avl_pearl_side_stick_vel090.wav",
+  "avl_pearl_side_stick/avl_pearl_side_stick_vel115.wav"
+ ],
+ "avl_pearl_snare": [
+  "avl_pearl_snare/avl_pearl_snare_vel013.wav",
+  "avl_pearl_snare/avl_pearl_snare_vel039.wav",
+  "avl_pearl_snare/avl_pearl_snare_vel065.wav",
+  "avl_pearl_snare/avl_pearl_snare_vel090.wav",
+  "avl_pearl_snare/avl_pearl_snare_vel115.wav"
+ ],
+ "avl_pearl_hand_clap": [
+  "avl_pearl_hand_clap/avl_pearl_hand_clap_vel013.wav",
+  "avl_pearl_hand_clap/avl_pearl_hand_clap_vel039.wav",
+  "avl_pearl_hand_clap/avl_pearl_hand_clap_vel065.wav",
+  "avl_pearl_hand_clap/avl_pearl_hand_clap_vel090.wav",
+  "avl_pearl_hand_clap/avl_pearl_hand_clap_vel115.wav"
+ ],
+ "avl_pearl_snare_edge": [
+  "avl_pearl_snare_edge/avl_pearl_snare_edge_vel013.wav",
+  "avl_pearl_snare_edge/avl_pearl_snare_edge_vel039.wav",
+  "avl_pearl_snare_edge/avl_pearl_snare_edge_vel065.wav",
+  "avl_pearl_snare_edge/avl_pearl_snare_edge_vel090.wav",
+  "avl_pearl_snare_edge/avl_pearl_snare_edge_vel115.wav"
+ ],
+ "avl_pearl_floor_tom": [
+  "avl_pearl_floor_tom/avl_pearl_floor_tom_vel013.wav",
+  "avl_pearl_floor_tom/avl_pearl_floor_tom_vel039.wav",
+  "avl_pearl_floor_tom/avl_pearl_floor_tom_vel065.wav",
+  "avl_pearl_floor_tom/avl_pearl_floor_tom_vel090.wav",
+  "avl_pearl_floor_tom/avl_pearl_floor_tom_vel115.wav"
+ ],
+ "avl_pearl_hat_closed": [
+  "avl_pearl_hat_closed/avl_pearl_hat_closed_vel013.wav",
+  "avl_pearl_hat_closed/avl_pearl_hat_closed_vel039.wav",
+  "avl_pearl_hat_closed/avl_pearl_hat_closed_vel065.wav",
+  "avl_pearl_hat_closed/avl_pearl_hat_closed_vel090.wav",
+  "avl_pearl_hat_closed/avl_pearl_hat_closed_vel115.wav"
+ ],
+ "avl_pearl_floor_tom_edge": [
+  "avl_pearl_floor_tom_edge/avl_pearl_floor_tom_edge_vel013.wav",
+  "avl_pearl_floor_tom_edge/avl_pearl_floor_tom_edge_vel039.wav",
+  "avl_pearl_floor_tom_edge/avl_pearl_floor_tom_edge_vel065.wav",
+  "avl_pearl_floor_tom_edge/avl_pearl_floor_tom_edge_vel090.wav",
+  "avl_pearl_floor_tom_edge/avl_pearl_floor_tom_edge_vel115.wav"
+ ],
+ "avl_pearl_hat_pedal": [
+  "avl_pearl_hat_pedal/avl_pearl_hat_pedal_vel013.wav",
+  "avl_pearl_hat_pedal/avl_pearl_hat_pedal_vel039.wav",
+  "avl_pearl_hat_pedal/avl_pearl_hat_pedal_vel065.wav",
+  "avl_pearl_hat_pedal/avl_pearl_hat_pedal_vel090.wav",
+  "avl_pearl_hat_pedal/avl_pearl_hat_pedal_vel115.wav"
+ ],
+ "avl_pearl_tom": [
+  "avl_pearl_tom/avl_pearl_tom_vel013.wav",
+  "avl_pearl_tom/avl_pearl_tom_vel039.wav",
+  "avl_pearl_tom/avl_pearl_tom_vel065.wav",
+  "avl_pearl_tom/avl_pearl_tom_vel090.wav",
+  "avl_pearl_tom/avl_pearl_tom_vel115.wav"
+ ],
+ "avl_pearl_hat_semi": [
+  "avl_pearl_hat_semi/avl_pearl_hat_semi_vel013.wav",
+  "avl_pearl_hat_semi/avl_pearl_hat_semi_vel039.wav",
+  "avl_pearl_hat_semi/avl_pearl_hat_semi_vel065.wav",
+  "avl_pearl_hat_semi/avl_pearl_hat_semi_vel090.wav",
+  "avl_pearl_hat_semi/avl_pearl_hat_semi_vel115.wav"
+ ],
+ "avl_pearl_tom_edge": [
+  "avl_pearl_tom_edge/avl_pearl_tom_edge_vel013.wav",
+  "avl_pearl_tom_edge/avl_pearl_tom_edge_vel039.wav",
+  "avl_pearl_tom_edge/avl_pearl_tom_edge_vel065.wav",
+  "avl_pearl_tom_edge/avl_pearl_tom_edge_vel090.wav",
+  "avl_pearl_tom_edge/avl_pearl_tom_edge_vel115.wav"
+ ],
+ "avl_pearl_hat_swish": [
+  "avl_pearl_hat_swish/avl_pearl_hat_swish_vel013.wav",
+  "avl_pearl_hat_swish/avl_pearl_hat_swish_vel039.wav",
+  "avl_pearl_hat_swish/avl_pearl_hat_swish_vel065.wav",
+  "avl_pearl_hat_swish/avl_pearl_hat_swish_vel090.wav",
+  "avl_pearl_hat_swish/avl_pearl_hat_swish_vel115.wav"
+ ],
+ "avl_pearl_16_crash": [
+  "avl_pearl_16_crash/avl_pearl_16_crash_vel013.wav",
+  "avl_pearl_16_crash/avl_pearl_16_crash_vel039.wav",
+  "avl_pearl_16_crash/avl_pearl_16_crash_vel065.wav",
+  "avl_pearl_16_crash/avl_pearl_16_crash_vel090.wav",
+  "avl_pearl_16_crash/avl_pearl_16_crash_vel115.wav"
+ ],
+ "avl_pearl_16_crash_choke": [
+  "avl_pearl_16_crash_choke/avl_pearl_16_crash_choke.wav"
+ ],
+ "avl_pearl_ride": [
+  "avl_pearl_ride/avl_pearl_ride_vel013.wav",
+  "avl_pearl_ride/avl_pearl_ride_vel039.wav",
+  "avl_pearl_ride/avl_pearl_ride_vel065.wav",
+  "avl_pearl_ride/avl_pearl_ride_vel090.wav",
+  "avl_pearl_ride/avl_pearl_ride_vel115.wav"
+ ],
+ "avl_pearl_ride_choke": [
+  "avl_pearl_ride_choke/avl_pearl_ride_choke.wav"
+ ],
+ "avl_pearl_ride_bell": [
+  "avl_pearl_ride_bell/avl_pearl_ride_bell_vel013.wav",
+  "avl_pearl_ride_bell/avl_pearl_ride_bell_vel039.wav",
+  "avl_pearl_ride_bell/avl_pearl_ride_bell_vel065.wav",
+  "avl_pearl_ride_bell/avl_pearl_ride_bell_vel090.wav",
+  "avl_pearl_ride_bell/avl_pearl_ride_bell_vel115.wav"
+ ],
+ "avl_pearl_tambourine": [
+  "avl_pearl_tambourine/avl_pearl_tambourine_vel013.wav",
+  "avl_pearl_tambourine/avl_pearl_tambourine_vel039.wav",
+  "avl_pearl_tambourine/avl_pearl_tambourine_vel065.wav",
+  "avl_pearl_tambourine/avl_pearl_tambourine_vel090.wav",
+  "avl_pearl_tambourine/avl_pearl_tambourine_vel115.wav"
+ ],
+ "avl_pearl_splash": [
+  "avl_pearl_splash/avl_pearl_splash_vel013.wav",
+  "avl_pearl_splash/avl_pearl_splash_vel039.wav",
+  "avl_pearl_splash/avl_pearl_splash_vel065.wav",
+  "avl_pearl_splash/avl_pearl_splash_vel090.wav",
+  "avl_pearl_splash/avl_pearl_splash_vel115.wav"
+ ],
+ "avl_pearl_cowbell": [
+  "avl_pearl_cowbell/avl_pearl_cowbell_vel013.wav",
+  "avl_pearl_cowbell/avl_pearl_cowbell_vel039.wav",
+  "avl_pearl_cowbell/avl_pearl_cowbell_vel065.wav",
+  "avl_pearl_cowbell/avl_pearl_cowbell_vel090.wav",
+  "avl_pearl_cowbell/avl_pearl_cowbell_vel115.wav"
+ ],
+ "avl_pearl_17_crash": [
+  "avl_pearl_17_crash/avl_pearl_17_crash_vel013.wav",
+  "avl_pearl_17_crash/avl_pearl_17_crash_vel039.wav",
+  "avl_pearl_17_crash/avl_pearl_17_crash_vel065.wav",
+  "avl_pearl_17_crash/avl_pearl_17_crash_vel090.wav",
+  "avl_pearl_17_crash/avl_pearl_17_crash_vel115.wav"
+ ],
+ "avl_pearl_17_crash_choke": [
+  "avl_pearl_17_crash_choke/avl_pearl_17_crash_choke.wav"
+ ],
+ "avl_pearl_ride_shank": [
+  "avl_pearl_ride_shank/avl_pearl_ride_shank_vel013.wav",
+  "avl_pearl_ride_shank/avl_pearl_ride_shank_vel039.wav",
+  "avl_pearl_ride_shank/avl_pearl_ride_shank_vel065.wav",
+  "avl_pearl_ride_shank/avl_pearl_ride_shank_vel090.wav",
+  "avl_pearl_ride_shank/avl_pearl_ride_shank_vel115.wav"
+ ],
+ "avl_pearl_22_crash": [
+  "avl_pearl_22_crash/avl_pearl_22_crash_vel013.wav",
+  "avl_pearl_22_crash/avl_pearl_22_crash_vel039.wav",
+  "avl_pearl_22_crash/avl_pearl_22_crash_vel065.wav",
+  "avl_pearl_22_crash/avl_pearl_22_crash_vel090.wav",
+  "avl_pearl_22_crash/avl_pearl_22_crash_vel115.wav"
+ ],
+ "avl_pearl_maraca": [
+  "avl_pearl_maraca/avl_pearl_maraca_vel013.wav",
+  "avl_pearl_maraca/avl_pearl_maraca_vel039.wav",
+  "avl_pearl_maraca/avl_pearl_maraca_vel065.wav",
+  "avl_pearl_maraca/avl_pearl_maraca_vel090.wav",
+  "avl_pearl_maraca/avl_pearl_maraca_vel115.wav"
+ ],
+ "avl_pearl_china_crash": [
+  "avl_pearl_china_crash/avl_pearl_china_crash_vel013.wav",
+  "avl_pearl_china_crash/avl_pearl_china_crash_vel039.wav",
+  "avl_pearl_china_crash/avl_pearl_china_crash_vel065.wav",
+  "avl_pearl_china_crash/avl_pearl_china_crash_vel090.wav",
+  "avl_pearl_china_crash/avl_pearl_china_crash_vel115.wav"
+ ],
+ "avl_blondebop_stick_click": [
+  "avl_blondebop_stick_click/avl_blondebop_stick_click_vel013.wav",
+  "avl_blondebop_stick_click/avl_blondebop_stick_click_vel039.wav",
+  "avl_blondebop_stick_click/avl_blondebop_stick_click_vel065.wav",
+  "avl_blondebop_stick_click/avl_blondebop_stick_click_vel090.wav",
+  "avl_blondebop_stick_click/avl_blondebop_stick_click_vel115.wav"
+ ],
+ "avl_blondebop_kick": [
+  "avl_blondebop_kick/avl_blondebop_kick_vel013.wav",
+  "avl_blondebop_kick/avl_blondebop_kick_vel039.wav",
+  "avl_blondebop_kick/avl_blondebop_kick_vel065.wav",
+  "avl_blondebop_kick/avl_blondebop_kick_vel090.wav",
+  "avl_blondebop_kick/avl_blondebop_kick_vel115.wav"
+ ],
+ "avl_blondebop_side_stick": [
+  "avl_blondebop_side_stick/avl_blondebop_side_stick_vel013.wav",
+  "avl_blondebop_side_stick/avl_blondebop_side_stick_vel039.wav",
+  "avl_blondebop_side_stick/avl_blondebop_side_stick_vel065.wav",
+  "avl_blondebop_side_stick/avl_blondebop_side_stick_vel090.wav",
+  "avl_blondebop_side_stick/avl_blondebop_side_stick_vel115.wav"
+ ],
+ "avl_blondebop_snare": [
+  "avl_blondebop_snare/avl_blondebop_snare_vel013.wav",
+  "avl_blondebop_snare/avl_blondebop_snare_vel039.wav",
+  "avl_blondebop_snare/avl_blondebop_snare_vel065.wav",
+  "avl_blondebop_snare/avl_blondebop_snare_vel090.wav",
+  "avl_blondebop_snare/avl_blondebop_snare_vel115.wav"
+ ],
+ "avl_blondebop_hand_clap": [
+  "avl_blondebop_hand_clap/avl_blondebop_hand_clap_vel013.wav",
+  "avl_blondebop_hand_clap/avl_blondebop_hand_clap_vel039.wav",
+  "avl_blondebop_hand_clap/avl_blondebop_hand_clap_vel065.wav",
+  "avl_blondebop_hand_clap/avl_blondebop_hand_clap_vel090.wav",
+  "avl_blondebop_hand_clap/avl_blondebop_hand_clap_vel115.wav"
+ ],
+ "avl_blondebop_snare_edge": [
+  "avl_blondebop_snare_edge/avl_blondebop_snare_edge_vel013.wav",
+  "avl_blondebop_snare_edge/avl_blondebop_snare_edge_vel039.wav",
+  "avl_blondebop_snare_edge/avl_blondebop_snare_edge_vel065.wav",
+  "avl_blondebop_snare_edge/avl_blondebop_snare_edge_vel090.wav",
+  "avl_blondebop_snare_edge/avl_blondebop_snare_edge_vel115.wav"
+ ],
+ "avl_blondebop_floor_tom": [
+  "avl_blondebop_floor_tom/avl_blondebop_floor_tom_vel013.wav",
+  "avl_blondebop_floor_tom/avl_blondebop_floor_tom_vel039.wav",
+  "avl_blondebop_floor_tom/avl_blondebop_floor_tom_vel065.wav",
+  "avl_blondebop_floor_tom/avl_blondebop_floor_tom_vel090.wav",
+  "avl_blondebop_floor_tom/avl_blondebop_floor_tom_vel115.wav"
+ ],
+ "avl_blondebop_hat_closed": [
+  "avl_blondebop_hat_closed/avl_blondebop_hat_closed_vel013.wav",
+  "avl_blondebop_hat_closed/avl_blondebop_hat_closed_vel039.wav",
+  "avl_blondebop_hat_closed/avl_blondebop_hat_closed_vel065.wav",
+  "avl_blondebop_hat_closed/avl_blondebop_hat_closed_vel090.wav",
+  "avl_blondebop_hat_closed/avl_blondebop_hat_closed_vel115.wav"
+ ],
+ "avl_blondebop_floor_tom_edge": [
+  "avl_blondebop_floor_tom_edge/avl_blondebop_floor_tom_edge_vel013.wav",
+  "avl_blondebop_floor_tom_edge/avl_blondebop_floor_tom_edge_vel039.wav",
+  "avl_blondebop_floor_tom_edge/avl_blondebop_floor_tom_edge_vel065.wav",
+  "avl_blondebop_floor_tom_edge/avl_blondebop_floor_tom_edge_vel090.wav",
+  "avl_blondebop_floor_tom_edge/avl_blondebop_floor_tom_edge_vel115.wav"
+ ],
+ "avl_blondebop_hat_pedal": [
+  "avl_blondebop_hat_pedal/avl_blondebop_hat_pedal_vel013.wav",
+  "avl_blondebop_hat_pedal/avl_blondebop_hat_pedal_vel039.wav",
+  "avl_blondebop_hat_pedal/avl_blondebop_hat_pedal_vel065.wav",
+  "avl_blondebop_hat_pedal/avl_blondebop_hat_pedal_vel090.wav",
+  "avl_blondebop_hat_pedal/avl_blondebop_hat_pedal_vel115.wav"
+ ],
+ "avl_blondebop_tom": [
+  "avl_blondebop_tom/avl_blondebop_tom_vel013.wav",
+  "avl_blondebop_tom/avl_blondebop_tom_vel039.wav",
+  "avl_blondebop_tom/avl_blondebop_tom_vel065.wav",
+  "avl_blondebop_tom/avl_blondebop_tom_vel090.wav",
+  "avl_blondebop_tom/avl_blondebop_tom_vel115.wav"
+ ],
+ "avl_blondebop_hat_semi": [
+  "avl_blondebop_hat_semi/avl_blondebop_hat_semi_vel013.wav",
+  "avl_blondebop_hat_semi/avl_blondebop_hat_semi_vel039.wav",
+  "avl_blondebop_hat_semi/avl_blondebop_hat_semi_vel065.wav",
+  "avl_blondebop_hat_semi/avl_blondebop_hat_semi_vel090.wav",
+  "avl_blondebop_hat_semi/avl_blondebop_hat_semi_vel115.wav"
+ ],
+ "avl_blondebop_tom_edge": [
+  "avl_blondebop_tom_edge/avl_blondebop_tom_edge_vel013.wav",
+  "avl_blondebop_tom_edge/avl_blondebop_tom_edge_vel039.wav",
+  "avl_blondebop_tom_edge/avl_blondebop_tom_edge_vel065.wav",
+  "avl_blondebop_tom_edge/avl_blondebop_tom_edge_vel090.wav",
+  "avl_blondebop_tom_edge/avl_blondebop_tom_edge_vel115.wav"
+ ],
+ "avl_blondebop_hat_swish": [
+  "avl_blondebop_hat_swish/avl_blondebop_hat_swish_vel013.wav",
+  "avl_blondebop_hat_swish/avl_blondebop_hat_swish_vel039.wav",
+  "avl_blondebop_hat_swish/avl_blondebop_hat_swish_vel065.wav",
+  "avl_blondebop_hat_swish/avl_blondebop_hat_swish_vel090.wav",
+  "avl_blondebop_hat_swish/avl_blondebop_hat_swish_vel115.wav"
+ ],
+ "avl_blondebop_crash": [
+  "avl_blondebop_crash/avl_blondebop_crash_vel013.wav",
+  "avl_blondebop_crash/avl_blondebop_crash_vel039.wav",
+  "avl_blondebop_crash/avl_blondebop_crash_vel065.wav",
+  "avl_blondebop_crash/avl_blondebop_crash_vel090.wav",
+  "avl_blondebop_crash/avl_blondebop_crash_vel115.wav"
+ ],
+ "avl_blondebop_crash_choke": [
+  "avl_blondebop_crash_choke/avl_blondebop_crash_choke_vel013.wav",
+  "avl_blondebop_crash_choke/avl_blondebop_crash_choke_vel039.wav",
+  "avl_blondebop_crash_choke/avl_blondebop_crash_choke_vel065.wav",
+  "avl_blondebop_crash_choke/avl_blondebop_crash_choke_vel090.wav",
+  "avl_blondebop_crash_choke/avl_blondebop_crash_choke_vel115.wav"
+ ],
+ "avl_blondebop_ride_tip": [
+  "avl_blondebop_ride_tip/avl_blondebop_ride_tip_vel013.wav",
+  "avl_blondebop_ride_tip/avl_blondebop_ride_tip_vel039.wav",
+  "avl_blondebop_ride_tip/avl_blondebop_ride_tip_vel065.wav",
+  "avl_blondebop_ride_tip/avl_blondebop_ride_tip_vel090.wav",
+  "avl_blondebop_ride_tip/avl_blondebop_ride_tip_vel115.wav"
+ ],
+ "avl_blondebop_ride_choke": [
+  "avl_blondebop_ride_choke/avl_blondebop_ride_choke_vel013.wav",
+  "avl_blondebop_ride_choke/avl_blondebop_ride_choke_vel039.wav",
+  "avl_blondebop_ride_choke/avl_blondebop_ride_choke_vel065.wav",
+  "avl_blondebop_ride_choke/avl_blondebop_ride_choke_vel090.wav",
+  "avl_blondebop_ride_choke/avl_blondebop_ride_choke_vel115.wav"
+ ],
+ "avl_blondebop_ride_bell": [
+  "avl_blondebop_ride_bell/avl_blondebop_ride_bell_vel013.wav",
+  "avl_blondebop_ride_bell/avl_blondebop_ride_bell_vel039.wav",
+  "avl_blondebop_ride_bell/avl_blondebop_ride_bell_vel065.wav",
+  "avl_blondebop_ride_bell/avl_blondebop_ride_bell_vel090.wav",
+  "avl_blondebop_ride_bell/avl_blondebop_ride_bell_vel115.wav"
+ ],
+ "avl_blondebop_tambourine": [
+  "avl_blondebop_tambourine/avl_blondebop_tambourine_vel013.wav",
+  "avl_blondebop_tambourine/avl_blondebop_tambourine_vel039.wav",
+  "avl_blondebop_tambourine/avl_blondebop_tambourine_vel065.wav",
+  "avl_blondebop_tambourine/avl_blondebop_tambourine_vel090.wav",
+  "avl_blondebop_tambourine/avl_blondebop_tambourine_vel115.wav"
+ ],
+ "avl_blondebop_splash": [
+  "avl_blondebop_splash/avl_blondebop_splash_vel013.wav",
+  "avl_blondebop_splash/avl_blondebop_splash_vel039.wav",
+  "avl_blondebop_splash/avl_blondebop_splash_vel065.wav",
+  "avl_blondebop_splash/avl_blondebop_splash_vel090.wav",
+  "avl_blondebop_splash/avl_blondebop_splash_vel115.wav"
+ ],
+ "avl_blondebop_cowbell": [
+  "avl_blondebop_cowbell/avl_blondebop_cowbell_vel013.wav",
+  "avl_blondebop_cowbell/avl_blondebop_cowbell_vel039.wav",
+  "avl_blondebop_cowbell/avl_blondebop_cowbell_vel065.wav",
+  "avl_blondebop_cowbell/avl_blondebop_cowbell_vel090.wav",
+  "avl_blondebop_cowbell/avl_blondebop_cowbell_vel115.wav"
+ ],
+ "avl_blondebop_crash2": [
+  "avl_blondebop_crash2/avl_blondebop_crash2_vel013.wav",
+  "avl_blondebop_crash2/avl_blondebop_crash2_vel039.wav",
+  "avl_blondebop_crash2/avl_blondebop_crash2_vel065.wav",
+  "avl_blondebop_crash2/avl_blondebop_crash2_vel090.wav",
+  "avl_blondebop_crash2/avl_blondebop_crash2_vel115.wav"
+ ],
+ "avl_blondebop_crash2_choke": [
+  "avl_blondebop_crash2_choke/avl_blondebop_crash2_choke_vel013.wav",
+  "avl_blondebop_crash2_choke/avl_blondebop_crash2_choke_vel039.wav",
+  "avl_blondebop_crash2_choke/avl_blondebop_crash2_choke_vel065.wav",
+  "avl_blondebop_crash2_choke/avl_blondebop_crash2_choke_vel090.wav",
+  "avl_blondebop_crash2_choke/avl_blondebop_crash2_choke_vel115.wav"
+ ],
+ "avl_blondebop_ride_shank": [
+  "avl_blondebop_ride_shank/avl_blondebop_ride_shank_vel013.wav",
+  "avl_blondebop_ride_shank/avl_blondebop_ride_shank_vel039.wav",
+  "avl_blondebop_ride_shank/avl_blondebop_ride_shank_vel065.wav",
+  "avl_blondebop_ride_shank/avl_blondebop_ride_shank_vel090.wav",
+  "avl_blondebop_ride_shank/avl_blondebop_ride_shank_vel115.wav"
+ ],
+ "avl_blondebop_china_crash": [
+  "avl_blondebop_china_crash/avl_blondebop_china_crash_vel013.wav",
+  "avl_blondebop_china_crash/avl_blondebop_china_crash_vel039.wav",
+  "avl_blondebop_china_crash/avl_blondebop_china_crash_vel065.wav",
+  "avl_blondebop_china_crash/avl_blondebop_china_crash_vel090.wav",
+  "avl_blondebop_china_crash/avl_blondebop_china_crash_vel115.wav"
+ ],
+ "avl_blondebop_shakers": [
+  "avl_blondebop_shakers/avl_blondebop_shakers_vel013.wav",
+  "avl_blondebop_shakers/avl_blondebop_shakers_vel039.wav",
+  "avl_blondebop_shakers/avl_blondebop_shakers_vel065.wav",
+  "avl_blondebop_shakers/avl_blondebop_shakers_vel090.wav",
+  "avl_blondebop_shakers/avl_blondebop_shakers_vel115.wav"
+ ],
+ "avl_blondebophr_stick_click": [
+  "avl_blondebophr_stick_click/avl_blondebophr_stick_click_vel013.wav",
+  "avl_blondebophr_stick_click/avl_blondebophr_stick_click_vel039.wav",
+  "avl_blondebophr_stick_click/avl_blondebophr_stick_click_vel065.wav",
+  "avl_blondebophr_stick_click/avl_blondebophr_stick_click_vel090.wav",
+  "avl_blondebophr_stick_click/avl_blondebophr_stick_click_vel115.wav"
+ ],
+ "avl_blondebophr_kick": [
+  "avl_blondebophr_kick/avl_blondebophr_kick_vel013.wav",
+  "avl_blondebophr_kick/avl_blondebophr_kick_vel039.wav",
+  "avl_blondebophr_kick/avl_blondebophr_kick_vel065.wav",
+  "avl_blondebophr_kick/avl_blondebophr_kick_vel090.wav",
+  "avl_blondebophr_kick/avl_blondebophr_kick_vel115.wav"
+ ],
+ "avl_blondebophr_snare_sidestick": [
+  "avl_blondebophr_snare_sidestick/avl_blondebophr_snare_sidestick_vel013.wav",
+  "avl_blondebophr_snare_sidestick/avl_blondebophr_snare_sidestick_vel039.wav",
+  "avl_blondebophr_snare_sidestick/avl_blondebophr_snare_sidestick_vel065.wav",
+  "avl_blondebophr_snare_sidestick/avl_blondebophr_snare_sidestick_vel090.wav",
+  "avl_blondebophr_snare_sidestick/avl_blondebophr_snare_sidestick_vel115.wav"
+ ],
+ "avl_blondebophr_snare_center": [
+  "avl_blondebophr_snare_center/avl_blondebophr_snare_center_vel013.wav",
+  "avl_blondebophr_snare_center/avl_blondebophr_snare_center_vel039.wav",
+  "avl_blondebophr_snare_center/avl_blondebophr_snare_center_vel065.wav",
+  "avl_blondebophr_snare_center/avl_blondebophr_snare_center_vel090.wav",
+  "avl_blondebophr_snare_center/avl_blondebophr_snare_center_vel115.wav"
+ ],
+ "avl_blondebophr_hand_clap": [
+  "avl_blondebophr_hand_clap/avl_blondebophr_hand_clap_vel013.wav",
+  "avl_blondebophr_hand_clap/avl_blondebophr_hand_clap_vel039.wav",
+  "avl_blondebophr_hand_clap/avl_blondebophr_hand_clap_vel065.wav",
+  "avl_blondebophr_hand_clap/avl_blondebophr_hand_clap_vel090.wav",
+  "avl_blondebophr_hand_clap/avl_blondebophr_hand_clap_vel115.wav"
+ ],
+ "avl_blondebophr_snare_edge": [
+  "avl_blondebophr_snare_edge/avl_blondebophr_snare_edge_vel013.wav",
+  "avl_blondebophr_snare_edge/avl_blondebophr_snare_edge_vel039.wav",
+  "avl_blondebophr_snare_edge/avl_blondebophr_snare_edge_vel065.wav",
+  "avl_blondebophr_snare_edge/avl_blondebophr_snare_edge_vel090.wav",
+  "avl_blondebophr_snare_edge/avl_blondebophr_snare_edge_vel115.wav"
+ ],
+ "avl_blondebophr_floor_tom_center": [
+  "avl_blondebophr_floor_tom_center/avl_blondebophr_floor_tom_center_vel013.wav",
+  "avl_blondebophr_floor_tom_center/avl_blondebophr_floor_tom_center_vel039.wav",
+  "avl_blondebophr_floor_tom_center/avl_blondebophr_floor_tom_center_vel065.wav",
+  "avl_blondebophr_floor_tom_center/avl_blondebophr_floor_tom_center_vel090.wav",
+  "avl_blondebophr_floor_tom_center/avl_blondebophr_floor_tom_center_vel115.wav"
+ ],
+ "avl_blondebophr_hat_closed": [
+  "avl_blondebophr_hat_closed/avl_blondebophr_hat_closed_vel013.wav",
+  "avl_blondebophr_hat_closed/avl_blondebophr_hat_closed_vel039.wav",
+  "avl_blondebophr_hat_closed/avl_blondebophr_hat_closed_vel065.wav",
+  "avl_blondebophr_hat_closed/avl_blondebophr_hat_closed_vel090.wav",
+  "avl_blondebophr_hat_closed/avl_blondebophr_hat_closed_vel115.wav"
+ ],
+ "avl_blondebophr_floor_tom_edge": [
+  "avl_blondebophr_floor_tom_edge/avl_blondebophr_floor_tom_edge_vel013.wav",
+  "avl_blondebophr_floor_tom_edge/avl_blondebophr_floor_tom_edge_vel039.wav",
+  "avl_blondebophr_floor_tom_edge/avl_blondebophr_floor_tom_edge_vel065.wav",
+  "avl_blondebophr_floor_tom_edge/avl_blondebophr_floor_tom_edge_vel090.wav",
+  "avl_blondebophr_floor_tom_edge/avl_blondebophr_floor_tom_edge_vel115.wav"
+ ],
+ "avl_blondebophr_hat_pedal": [
+  "avl_blondebophr_hat_pedal/avl_blondebophr_hat_pedal_vel013.wav",
+  "avl_blondebophr_hat_pedal/avl_blondebophr_hat_pedal_vel039.wav",
+  "avl_blondebophr_hat_pedal/avl_blondebophr_hat_pedal_vel065.wav",
+  "avl_blondebophr_hat_pedal/avl_blondebophr_hat_pedal_vel090.wav",
+  "avl_blondebophr_hat_pedal/avl_blondebophr_hat_pedal_vel115.wav"
+ ],
+ "avl_blondebophr_tom_center": [
+  "avl_blondebophr_tom_center/avl_blondebophr_tom_center_vel013.wav",
+  "avl_blondebophr_tom_center/avl_blondebophr_tom_center_vel039.wav",
+  "avl_blondebophr_tom_center/avl_blondebophr_tom_center_vel065.wav",
+  "avl_blondebophr_tom_center/avl_blondebophr_tom_center_vel090.wav",
+  "avl_blondebophr_tom_center/avl_blondebophr_tom_center_vel115.wav"
+ ],
+ "avl_blondebophr_hat_semi": [
+  "avl_blondebophr_hat_semi/avl_blondebophr_hat_semi_vel013.wav",
+  "avl_blondebophr_hat_semi/avl_blondebophr_hat_semi_vel039.wav",
+  "avl_blondebophr_hat_semi/avl_blondebophr_hat_semi_vel065.wav",
+  "avl_blondebophr_hat_semi/avl_blondebophr_hat_semi_vel090.wav",
+  "avl_blondebophr_hat_semi/avl_blondebophr_hat_semi_vel115.wav"
+ ],
+ "avl_blondebophr_tom_edge": [
+  "avl_blondebophr_tom_edge/avl_blondebophr_tom_edge_vel013.wav",
+  "avl_blondebophr_tom_edge/avl_blondebophr_tom_edge_vel039.wav",
+  "avl_blondebophr_tom_edge/avl_blondebophr_tom_edge_vel065.wav",
+  "avl_blondebophr_tom_edge/avl_blondebophr_tom_edge_vel090.wav",
+  "avl_blondebophr_tom_edge/avl_blondebophr_tom_edge_vel115.wav"
+ ],
+ "avl_blondebophr_hat_swish": [
+  "avl_blondebophr_hat_swish/avl_blondebophr_hat_swish_vel013.wav",
+  "avl_blondebophr_hat_swish/avl_blondebophr_hat_swish_vel039.wav",
+  "avl_blondebophr_hat_swish/avl_blondebophr_hat_swish_vel065.wav",
+  "avl_blondebophr_hat_swish/avl_blondebophr_hat_swish_vel090.wav",
+  "avl_blondebophr_hat_swish/avl_blondebophr_hat_swish_vel115.wav"
+ ],
+ "avl_blondebophr_crash": [
+  "avl_blondebophr_crash/avl_blondebophr_crash_vel013.wav",
+  "avl_blondebophr_crash/avl_blondebophr_crash_vel039.wav",
+  "avl_blondebophr_crash/avl_blondebophr_crash_vel065.wav",
+  "avl_blondebophr_crash/avl_blondebophr_crash_vel090.wav",
+  "avl_blondebophr_crash/avl_blondebophr_crash_vel115.wav"
+ ],
+ "avl_blondebophr_crash_choke": [
+  "avl_blondebophr_crash_choke/avl_blondebophr_crash_choke_vel013.wav",
+  "avl_blondebophr_crash_choke/avl_blondebophr_crash_choke_vel039.wav",
+  "avl_blondebophr_crash_choke/avl_blondebophr_crash_choke_vel065.wav",
+  "avl_blondebophr_crash_choke/avl_blondebophr_crash_choke_vel090.wav",
+  "avl_blondebophr_crash_choke/avl_blondebophr_crash_choke_vel115.wav"
+ ],
+ "avl_blondebophr_ride_tip": [
+  "avl_blondebophr_ride_tip/avl_blondebophr_ride_tip_vel013.wav",
+  "avl_blondebophr_ride_tip/avl_blondebophr_ride_tip_vel039.wav",
+  "avl_blondebophr_ride_tip/avl_blondebophr_ride_tip_vel065.wav",
+  "avl_blondebophr_ride_tip/avl_blondebophr_ride_tip_vel090.wav",
+  "avl_blondebophr_ride_tip/avl_blondebophr_ride_tip_vel115.wav"
+ ],
+ "avl_blondebophr_ride_choke": [
+  "avl_blondebophr_ride_choke/avl_blondebophr_ride_choke_vel013.wav",
+  "avl_blondebophr_ride_choke/avl_blondebophr_ride_choke_vel039.wav",
+  "avl_blondebophr_ride_choke/avl_blondebophr_ride_choke_vel065.wav",
+  "avl_blondebophr_ride_choke/avl_blondebophr_ride_choke_vel090.wav",
+  "avl_blondebophr_ride_choke/avl_blondebophr_ride_choke_vel115.wav"
+ ],
+ "avl_blondebophr_ride_bell": [
+  "avl_blondebophr_ride_bell/avl_blondebophr_ride_bell_vel013.wav",
+  "avl_blondebophr_ride_bell/avl_blondebophr_ride_bell_vel039.wav",
+  "avl_blondebophr_ride_bell/avl_blondebophr_ride_bell_vel065.wav",
+  "avl_blondebophr_ride_bell/avl_blondebophr_ride_bell_vel090.wav",
+  "avl_blondebophr_ride_bell/avl_blondebophr_ride_bell_vel115.wav"
+ ],
+ "avl_blondebophr_tambourine": [
+  "avl_blondebophr_tambourine/avl_blondebophr_tambourine_vel013.wav",
+  "avl_blondebophr_tambourine/avl_blondebophr_tambourine_vel039.wav",
+  "avl_blondebophr_tambourine/avl_blondebophr_tambourine_vel065.wav",
+  "avl_blondebophr_tambourine/avl_blondebophr_tambourine_vel090.wav",
+  "avl_blondebophr_tambourine/avl_blondebophr_tambourine_vel115.wav"
+ ],
+ "avl_blondebophr_splash": [
+  "avl_blondebophr_splash/avl_blondebophr_splash_vel013.wav",
+  "avl_blondebophr_splash/avl_blondebophr_splash_vel039.wav",
+  "avl_blondebophr_splash/avl_blondebophr_splash_vel065.wav",
+  "avl_blondebophr_splash/avl_blondebophr_splash_vel090.wav",
+  "avl_blondebophr_splash/avl_blondebophr_splash_vel115.wav"
+ ],
+ "avl_blondebophr_cowbell": [
+  "avl_blondebophr_cowbell/avl_blondebophr_cowbell_vel013.wav",
+  "avl_blondebophr_cowbell/avl_blondebophr_cowbell_vel039.wav",
+  "avl_blondebophr_cowbell/avl_blondebophr_cowbell_vel065.wav",
+  "avl_blondebophr_cowbell/avl_blondebophr_cowbell_vel090.wav",
+  "avl_blondebophr_cowbell/avl_blondebophr_cowbell_vel115.wav"
+ ],
+ "avl_blondebophr_crash2": [
+  "avl_blondebophr_crash2/avl_blondebophr_crash2_vel013.wav",
+  "avl_blondebophr_crash2/avl_blondebophr_crash2_vel039.wav",
+  "avl_blondebophr_crash2/avl_blondebophr_crash2_vel065.wav",
+  "avl_blondebophr_crash2/avl_blondebophr_crash2_vel090.wav",
+  "avl_blondebophr_crash2/avl_blondebophr_crash2_vel115.wav"
+ ],
+ "avl_blondebophr_crash2_choke": [
+  "avl_blondebophr_crash2_choke/avl_blondebophr_crash2_choke_vel013.wav",
+  "avl_blondebophr_crash2_choke/avl_blondebophr_crash2_choke_vel039.wav",
+  "avl_blondebophr_crash2_choke/avl_blondebophr_crash2_choke_vel065.wav",
+  "avl_blondebophr_crash2_choke/avl_blondebophr_crash2_choke_vel090.wav",
+  "avl_blondebophr_crash2_choke/avl_blondebophr_crash2_choke_vel115.wav"
+ ],
+ "avl_blondebophr_ride_shank": [
+  "avl_blondebophr_ride_shank/avl_blondebophr_ride_shank_vel013.wav",
+  "avl_blondebophr_ride_shank/avl_blondebophr_ride_shank_vel039.wav",
+  "avl_blondebophr_ride_shank/avl_blondebophr_ride_shank_vel065.wav",
+  "avl_blondebophr_ride_shank/avl_blondebophr_ride_shank_vel090.wav",
+  "avl_blondebophr_ride_shank/avl_blondebophr_ride_shank_vel115.wav"
+ ],
+ "avl_blondebophr_china_crash": [
+  "avl_blondebophr_china_crash/avl_blondebophr_china_crash_vel013.wav",
+  "avl_blondebophr_china_crash/avl_blondebophr_china_crash_vel039.wav",
+  "avl_blondebophr_china_crash/avl_blondebophr_china_crash_vel065.wav",
+  "avl_blondebophr_china_crash/avl_blondebophr_china_crash_vel090.wav",
+  "avl_blondebophr_china_crash/avl_blondebophr_china_crash_vel115.wav"
+ ],
+ "avl_blondebophr_shakers": [
+  "avl_blondebophr_shakers/avl_blondebophr_shakers_vel013.wav",
+  "avl_blondebophr_shakers/avl_blondebophr_shakers_vel039.wav",
+  "avl_blondebophr_shakers/avl_blondebophr_shakers_vel065.wav",
+  "avl_blondebophr_shakers/avl_blondebophr_shakers_vel090.wav",
+  "avl_blondebophr_shakers/avl_blondebophr_shakers_vel115.wav"
+ ],
+ "avl_redzep_stick_click": [
+  "avl_redzep_stick_click/avl_redzep_stick_click_vel013.wav",
+  "avl_redzep_stick_click/avl_redzep_stick_click_vel039.wav",
+  "avl_redzep_stick_click/avl_redzep_stick_click_vel065.wav",
+  "avl_redzep_stick_click/avl_redzep_stick_click_vel090.wav",
+  "avl_redzep_stick_click/avl_redzep_stick_click_vel115.wav"
+ ],
+ "avl_redzep_kick": [
+  "avl_redzep_kick/avl_redzep_kick_vel013.wav",
+  "avl_redzep_kick/avl_redzep_kick_vel039.wav",
+  "avl_redzep_kick/avl_redzep_kick_vel065.wav",
+  "avl_redzep_kick/avl_redzep_kick_vel090.wav",
+  "avl_redzep_kick/avl_redzep_kick_vel115.wav"
+ ],
+ "avl_redzep_side_stick": [
+  "avl_redzep_side_stick/avl_redzep_side_stick_vel013.wav",
+  "avl_redzep_side_stick/avl_redzep_side_stick_vel039.wav",
+  "avl_redzep_side_stick/avl_redzep_side_stick_vel065.wav",
+  "avl_redzep_side_stick/avl_redzep_side_stick_vel090.wav",
+  "avl_redzep_side_stick/avl_redzep_side_stick_vel115.wav"
+ ],
+ "avl_redzep_snare": [
+  "avl_redzep_snare/avl_redzep_snare_vel013.wav",
+  "avl_redzep_snare/avl_redzep_snare_vel039.wav",
+  "avl_redzep_snare/avl_redzep_snare_vel065.wav",
+  "avl_redzep_snare/avl_redzep_snare_vel090.wav",
+  "avl_redzep_snare/avl_redzep_snare_vel115.wav"
+ ],
+ "avl_redzep_hand_clap": [
+  "avl_redzep_hand_clap/avl_redzep_hand_clap_vel013.wav",
+  "avl_redzep_hand_clap/avl_redzep_hand_clap_vel039.wav",
+  "avl_redzep_hand_clap/avl_redzep_hand_clap_vel065.wav",
+  "avl_redzep_hand_clap/avl_redzep_hand_clap_vel090.wav",
+  "avl_redzep_hand_clap/avl_redzep_hand_clap_vel115.wav"
+ ],
+ "avl_redzep_snare_edge": [
+  "avl_redzep_snare_edge/avl_redzep_snare_edge_vel013.wav",
+  "avl_redzep_snare_edge/avl_redzep_snare_edge_vel039.wav",
+  "avl_redzep_snare_edge/avl_redzep_snare_edge_vel065.wav",
+  "avl_redzep_snare_edge/avl_redzep_snare_edge_vel090.wav",
+  "avl_redzep_snare_edge/avl_redzep_snare_edge_vel115.wav"
+ ],
+ "avl_redzep_floor_tom": [
+  "avl_redzep_floor_tom/avl_redzep_floor_tom_vel013.wav",
+  "avl_redzep_floor_tom/avl_redzep_floor_tom_vel039.wav",
+  "avl_redzep_floor_tom/avl_redzep_floor_tom_vel065.wav",
+  "avl_redzep_floor_tom/avl_redzep_floor_tom_vel090.wav",
+  "avl_redzep_floor_tom/avl_redzep_floor_tom_vel115.wav"
+ ],
+ "avl_redzep_hat_closed": [
+  "avl_redzep_hat_closed/avl_redzep_hat_closed_vel013.wav",
+  "avl_redzep_hat_closed/avl_redzep_hat_closed_vel039.wav",
+  "avl_redzep_hat_closed/avl_redzep_hat_closed_vel065.wav",
+  "avl_redzep_hat_closed/avl_redzep_hat_closed_vel090.wav",
+  "avl_redzep_hat_closed/avl_redzep_hat_closed_vel115.wav"
+ ],
+ "avl_redzep_floor_tom_edge": [
+  "avl_redzep_floor_tom_edge/avl_redzep_floor_tom_edge_vel013.wav",
+  "avl_redzep_floor_tom_edge/avl_redzep_floor_tom_edge_vel039.wav",
+  "avl_redzep_floor_tom_edge/avl_redzep_floor_tom_edge_vel065.wav",
+  "avl_redzep_floor_tom_edge/avl_redzep_floor_tom_edge_vel090.wav",
+  "avl_redzep_floor_tom_edge/avl_redzep_floor_tom_edge_vel115.wav"
+ ],
+ "avl_redzep_hat_pedal": [
+  "avl_redzep_hat_pedal/avl_redzep_hat_pedal_vel013.wav",
+  "avl_redzep_hat_pedal/avl_redzep_hat_pedal_vel039.wav",
+  "avl_redzep_hat_pedal/avl_redzep_hat_pedal_vel065.wav",
+  "avl_redzep_hat_pedal/avl_redzep_hat_pedal_vel090.wav",
+  "avl_redzep_hat_pedal/avl_redzep_hat_pedal_vel115.wav"
+ ],
+ "avl_redzep_tom": [
+  "avl_redzep_tom/avl_redzep_tom_vel013.wav",
+  "avl_redzep_tom/avl_redzep_tom_vel039.wav",
+  "avl_redzep_tom/avl_redzep_tom_vel065.wav",
+  "avl_redzep_tom/avl_redzep_tom_vel090.wav",
+  "avl_redzep_tom/avl_redzep_tom_vel115.wav"
+ ],
+ "avl_redzep_hat_semi": [
+  "avl_redzep_hat_semi/avl_redzep_hat_semi_vel013.wav",
+  "avl_redzep_hat_semi/avl_redzep_hat_semi_vel039.wav",
+  "avl_redzep_hat_semi/avl_redzep_hat_semi_vel065.wav",
+  "avl_redzep_hat_semi/avl_redzep_hat_semi_vel090.wav",
+  "avl_redzep_hat_semi/avl_redzep_hat_semi_vel115.wav"
+ ],
+ "avl_redzep_tom_edge": [
+  "avl_redzep_tom_edge/avl_redzep_tom_edge_vel013.wav",
+  "avl_redzep_tom_edge/avl_redzep_tom_edge_vel039.wav",
+  "avl_redzep_tom_edge/avl_redzep_tom_edge_vel065.wav",
+  "avl_redzep_tom_edge/avl_redzep_tom_edge_vel090.wav",
+  "avl_redzep_tom_edge/avl_redzep_tom_edge_vel115.wav"
+ ],
+ "avl_redzep_hat_swish": [
+  "avl_redzep_hat_swish/avl_redzep_hat_swish_vel013.wav",
+  "avl_redzep_hat_swish/avl_redzep_hat_swish_vel039.wav",
+  "avl_redzep_hat_swish/avl_redzep_hat_swish_vel065.wav",
+  "avl_redzep_hat_swish/avl_redzep_hat_swish_vel090.wav",
+  "avl_redzep_hat_swish/avl_redzep_hat_swish_vel115.wav"
+ ],
+ "avl_redzep_20_crash": [
+  "avl_redzep_20_crash/avl_redzep_20_crash_vel013.wav",
+  "avl_redzep_20_crash/avl_redzep_20_crash_vel039.wav",
+  "avl_redzep_20_crash/avl_redzep_20_crash_vel065.wav",
+  "avl_redzep_20_crash/avl_redzep_20_crash_vel090.wav",
+  "avl_redzep_20_crash/avl_redzep_20_crash_vel115.wav"
+ ],
+ "avl_redzep_20_crash_choke": [
+  "avl_redzep_20_crash_choke/avl_redzep_20_crash_choke.wav"
+ ],
+ "avl_redzep_ride": [
+  "avl_redzep_ride/avl_redzep_ride_vel013.wav",
+  "avl_redzep_ride/avl_redzep_ride_vel039.wav",
+  "avl_redzep_ride/avl_redzep_ride_vel065.wav",
+  "avl_redzep_ride/avl_redzep_ride_vel090.wav",
+  "avl_redzep_ride/avl_redzep_ride_vel115.wav"
+ ],
+ "avl_redzep_ride_choke": [
+  "avl_redzep_ride_choke/avl_redzep_ride_choke.wav"
+ ],
+ "avl_redzep_ride_bell": [
+  "avl_redzep_ride_bell/avl_redzep_ride_bell_vel013.wav",
+  "avl_redzep_ride_bell/avl_redzep_ride_bell_vel039.wav",
+  "avl_redzep_ride_bell/avl_redzep_ride_bell_vel065.wav",
+  "avl_redzep_ride_bell/avl_redzep_ride_bell_vel090.wav",
+  "avl_redzep_ride_bell/avl_redzep_ride_bell_vel115.wav"
+ ],
+ "avl_redzep_tambourine": [
+  "avl_redzep_tambourine/avl_redzep_tambourine_vel013.wav",
+  "avl_redzep_tambourine/avl_redzep_tambourine_vel039.wav",
+  "avl_redzep_tambourine/avl_redzep_tambourine_vel065.wav",
+  "avl_redzep_tambourine/avl_redzep_tambourine_vel090.wav",
+  "avl_redzep_tambourine/avl_redzep_tambourine_vel115.wav"
+ ],
+ "avl_redzep_splash": [
+  "avl_redzep_splash/avl_redzep_splash_vel013.wav",
+  "avl_redzep_splash/avl_redzep_splash_vel039.wav",
+  "avl_redzep_splash/avl_redzep_splash_vel065.wav",
+  "avl_redzep_splash/avl_redzep_splash_vel090.wav",
+  "avl_redzep_splash/avl_redzep_splash_vel115.wav"
+ ],
+ "avl_redzep_cowbell": [
+  "avl_redzep_cowbell/avl_redzep_cowbell_vel013.wav",
+  "avl_redzep_cowbell/avl_redzep_cowbell_vel039.wav",
+  "avl_redzep_cowbell/avl_redzep_cowbell_vel065.wav",
+  "avl_redzep_cowbell/avl_redzep_cowbell_vel090.wav",
+  "avl_redzep_cowbell/avl_redzep_cowbell_vel115.wav"
+ ],
+ "avl_redzep_17_crash": [
+  "avl_redzep_17_crash/avl_redzep_17_crash_vel013.wav",
+  "avl_redzep_17_crash/avl_redzep_17_crash_vel039.wav",
+  "avl_redzep_17_crash/avl_redzep_17_crash_vel065.wav",
+  "avl_redzep_17_crash/avl_redzep_17_crash_vel090.wav",
+  "avl_redzep_17_crash/avl_redzep_17_crash_vel115.wav"
+ ],
+ "avl_redzep_17_crash_choke": [
+  "avl_redzep_17_crash_choke/avl_redzep_17_crash_choke.wav"
+ ],
+ "avl_redzep_ride_shank": [
+  "avl_redzep_ride_shank/avl_redzep_ride_shank_vel013.wav",
+  "avl_redzep_ride_shank/avl_redzep_ride_shank_vel039.wav",
+  "avl_redzep_ride_shank/avl_redzep_ride_shank_vel065.wav",
+  "avl_redzep_ride_shank/avl_redzep_ride_shank_vel090.wav",
+  "avl_redzep_ride_shank/avl_redzep_ride_shank_vel115.wav"
+ ],
+ "avl_redzep_22_crash": [
+  "avl_redzep_22_crash/avl_redzep_22_crash_vel013.wav",
+  "avl_redzep_22_crash/avl_redzep_22_crash_vel039.wav",
+  "avl_redzep_22_crash/avl_redzep_22_crash_vel065.wav",
+  "avl_redzep_22_crash/avl_redzep_22_crash_vel090.wav",
+  "avl_redzep_22_crash/avl_redzep_22_crash_vel115.wav"
+ ],
+ "avl_redzep_maraca": [
+  "avl_redzep_maraca/avl_redzep_maraca_vel013.wav",
+  "avl_redzep_maraca/avl_redzep_maraca_vel039.wav",
+  "avl_redzep_maraca/avl_redzep_maraca_vel065.wav",
+  "avl_redzep_maraca/avl_redzep_maraca_vel090.wav",
+  "avl_redzep_maraca/avl_redzep_maraca_vel115.wav"
+ ],
+ "avl_redzep_china_crash": [
+  "avl_redzep_china_crash/avl_redzep_china_crash_vel013.wav",
+  "avl_redzep_china_crash/avl_redzep_china_crash_vel039.wav",
+  "avl_redzep_china_crash/avl_redzep_china_crash_vel065.wav",
+  "avl_redzep_china_crash/avl_redzep_china_crash_vel090.wav",
+  "avl_redzep_china_crash/avl_redzep_china_crash_vel115.wav"
+ ],
+ "avl_buskman_stick_click": [
+  "avl_buskman_stick_click/avl_buskman_stick_click_vel007.wav",
+  "avl_buskman_stick_click/avl_buskman_stick_click_vel020.wav",
+  "avl_buskman_stick_click/avl_buskman_stick_click_vel033.wav",
+  "avl_buskman_stick_click/avl_buskman_stick_click_vel046.wav",
+  "avl_buskman_stick_click/avl_buskman_stick_click_vel059.wav",
+  "avl_buskman_stick_click/avl_buskman_stick_click_vel072.wav",
+  "avl_buskman_stick_click/avl_buskman_stick_click_vel085.wav",
+  "avl_buskman_stick_click/avl_buskman_stick_click_vel097.wav",
+  "avl_buskman_stick_click/avl_buskman_stick_click_vel109.wav",
+  "avl_buskman_stick_click/avl_buskman_stick_click_vel121.wav"
+ ],
+ "avl_buskman_cajon_thump": [
+  "avl_buskman_cajon_thump/avl_buskman_cajon_thump_vel007.wav",
+  "avl_buskman_cajon_thump/avl_buskman_cajon_thump_vel020.wav",
+  "avl_buskman_cajon_thump/avl_buskman_cajon_thump_vel033.wav",
+  "avl_buskman_cajon_thump/avl_buskman_cajon_thump_vel046.wav",
+  "avl_buskman_cajon_thump/avl_buskman_cajon_thump_vel059.wav",
+  "avl_buskman_cajon_thump/avl_buskman_cajon_thump_vel072.wav",
+  "avl_buskman_cajon_thump/avl_buskman_cajon_thump_vel085.wav",
+  "avl_buskman_cajon_thump/avl_buskman_cajon_thump_vel097.wav",
+  "avl_buskman_cajon_thump/avl_buskman_cajon_thump_vel109.wav",
+  "avl_buskman_cajon_thump/avl_buskman_cajon_thump_vel121.wav"
+ ],
+ "avl_buskman_finger_snaps": [
+  "avl_buskman_finger_snaps/avl_buskman_finger_snaps_vel007.wav",
+  "avl_buskman_finger_snaps/avl_buskman_finger_snaps_vel020.wav",
+  "avl_buskman_finger_snaps/avl_buskman_finger_snaps_vel033.wav",
+  "avl_buskman_finger_snaps/avl_buskman_finger_snaps_vel046.wav",
+  "avl_buskman_finger_snaps/avl_buskman_finger_snaps_vel059.wav",
+  "avl_buskman_finger_snaps/avl_buskman_finger_snaps_vel072.wav",
+  "avl_buskman_finger_snaps/avl_buskman_finger_snaps_vel085.wav",
+  "avl_buskman_finger_snaps/avl_buskman_finger_snaps_vel097.wav",
+  "avl_buskman_finger_snaps/avl_buskman_finger_snaps_vel109.wav",
+  "avl_buskman_finger_snaps/avl_buskman_finger_snaps_vel121.wav"
+ ],
+ "avl_buskman_cajon_slap_lh": [
+  "avl_buskman_cajon_slap_lh/avl_buskman_cajon_slap_lh_vel007.wav",
+  "avl_buskman_cajon_slap_lh/avl_buskman_cajon_slap_lh_vel020.wav",
+  "avl_buskman_cajon_slap_lh/avl_buskman_cajon_slap_lh_vel033.wav",
+  "avl_buskman_cajon_slap_lh/avl_buskman_cajon_slap_lh_vel046.wav",
+  "avl_buskman_cajon_slap_lh/avl_buskman_cajon_slap_lh_vel059.wav",
+  "avl_buskman_cajon_slap_lh/avl_buskman_cajon_slap_lh_vel072.wav",
+  "avl_buskman_cajon_slap_lh/avl_buskman_cajon_slap_lh_vel085.wav",
+  "avl_buskman_cajon_slap_lh/avl_buskman_cajon_slap_lh_vel097.wav",
+  "avl_buskman_cajon_slap_lh/avl_buskman_cajon_slap_lh_vel109.wav",
+  "avl_buskman_cajon_slap_lh/avl_buskman_cajon_slap_lh_vel121.wav"
+ ],
+ "avl_buskman_hand_claps": [
+  "avl_buskman_hand_claps/avl_buskman_hand_claps_vel007.wav",
+  "avl_buskman_hand_claps/avl_buskman_hand_claps_vel020.wav",
+  "avl_buskman_hand_claps/avl_buskman_hand_claps_vel033.wav",
+  "avl_buskman_hand_claps/avl_buskman_hand_claps_vel046.wav",
+  "avl_buskman_hand_claps/avl_buskman_hand_claps_vel059.wav",
+  "avl_buskman_hand_claps/avl_buskman_hand_claps_vel072.wav",
+  "avl_buskman_hand_claps/avl_buskman_hand_claps_vel085.wav",
+  "avl_buskman_hand_claps/avl_buskman_hand_claps_vel097.wav",
+  "avl_buskman_hand_claps/avl_buskman_hand_claps_vel109.wav",
+  "avl_buskman_hand_claps/avl_buskman_hand_claps_vel121.wav"
+ ],
+ "avl_buskman_cajon_slap_rh": [
+  "avl_buskman_cajon_slap_rh/avl_buskman_cajon_slap_rh_vel007.wav",
+  "avl_buskman_cajon_slap_rh/avl_buskman_cajon_slap_rh_vel020.wav",
+  "avl_buskman_cajon_slap_rh/avl_buskman_cajon_slap_rh_vel033.wav",
+  "avl_buskman_cajon_slap_rh/avl_buskman_cajon_slap_rh_vel046.wav",
+  "avl_buskman_cajon_slap_rh/avl_buskman_cajon_slap_rh_vel059.wav",
+  "avl_buskman_cajon_slap_rh/avl_buskman_cajon_slap_rh_vel072.wav",
+  "avl_buskman_cajon_slap_rh/avl_buskman_cajon_slap_rh_vel085.wav",
+  "avl_buskman_cajon_slap_rh/avl_buskman_cajon_slap_rh_vel097.wav",
+  "avl_buskman_cajon_slap_rh/avl_buskman_cajon_slap_rh_vel109.wav",
+  "avl_buskman_cajon_slap_rh/avl_buskman_cajon_slap_rh_vel121.wav"
+ ],
+ "avl_buskman_conga_large_lh": [
+  "avl_buskman_conga_large_lh/avl_buskman_conga_large_lh_vel007.wav",
+  "avl_buskman_conga_large_lh/avl_buskman_conga_large_lh_vel020.wav",
+  "avl_buskman_conga_large_lh/avl_buskman_conga_large_lh_vel033.wav",
+  "avl_buskman_conga_large_lh/avl_buskman_conga_large_lh_vel046.wav",
+  "avl_buskman_conga_large_lh/avl_buskman_conga_large_lh_vel059.wav",
+  "avl_buskman_conga_large_lh/avl_buskman_conga_large_lh_vel072.wav",
+  "avl_buskman_conga_large_lh/avl_buskman_conga_large_lh_vel085.wav",
+  "avl_buskman_conga_large_lh/avl_buskman_conga_large_lh_vel097.wav",
+  "avl_buskman_conga_large_lh/avl_buskman_conga_large_lh_vel109.wav",
+  "avl_buskman_conga_large_lh/avl_buskman_conga_large_lh_vel121.wav"
+ ],
+ "avl_buskman_triple_shaker": [
+  "avl_buskman_triple_shaker/avl_buskman_triple_shaker_vel007.wav",
+  "avl_buskman_triple_shaker/avl_buskman_triple_shaker_vel020.wav",
+  "avl_buskman_triple_shaker/avl_buskman_triple_shaker_vel033.wav",
+  "avl_buskman_triple_shaker/avl_buskman_triple_shaker_vel046.wav",
+  "avl_buskman_triple_shaker/avl_buskman_triple_shaker_vel059.wav",
+  "avl_buskman_triple_shaker/avl_buskman_triple_shaker_vel072.wav",
+  "avl_buskman_triple_shaker/avl_buskman_triple_shaker_vel085.wav",
+  "avl_buskman_triple_shaker/avl_buskman_triple_shaker_vel097.wav",
+  "avl_buskman_triple_shaker/avl_buskman_triple_shaker_vel109.wav",
+  "avl_buskman_triple_shaker/avl_buskman_triple_shaker_vel121.wav"
+ ],
+ "avl_buskman_conga_large_rh": [
+  "avl_buskman_conga_large_rh/avl_buskman_conga_large_rh_vel007.wav",
+  "avl_buskman_conga_large_rh/avl_buskman_conga_large_rh_vel020.wav",
+  "avl_buskman_conga_large_rh/avl_buskman_conga_large_rh_vel033.wav",
+  "avl_buskman_conga_large_rh/avl_buskman_conga_large_rh_vel046.wav",
+  "avl_buskman_conga_large_rh/avl_buskman_conga_large_rh_vel059.wav",
+  "avl_buskman_conga_large_rh/avl_buskman_conga_large_rh_vel072.wav",
+  "avl_buskman_conga_large_rh/avl_buskman_conga_large_rh_vel085.wav",
+  "avl_buskman_conga_large_rh/avl_buskman_conga_large_rh_vel097.wav",
+  "avl_buskman_conga_large_rh/avl_buskman_conga_large_rh_vel109.wav",
+  "avl_buskman_conga_large_rh/avl_buskman_conga_large_rh_vel121.wav"
+ ],
+ "avl_buskman_shake_tambourine": [
+  "avl_buskman_shake_tambourine/avl_buskman_shake_tambourine_vel007.wav",
+  "avl_buskman_shake_tambourine/avl_buskman_shake_tambourine_vel020.wav",
+  "avl_buskman_shake_tambourine/avl_buskman_shake_tambourine_vel033.wav",
+  "avl_buskman_shake_tambourine/avl_buskman_shake_tambourine_vel046.wav",
+  "avl_buskman_shake_tambourine/avl_buskman_shake_tambourine_vel059.wav",
+  "avl_buskman_shake_tambourine/avl_buskman_shake_tambourine_vel072.wav",
+  "avl_buskman_shake_tambourine/avl_buskman_shake_tambourine_vel085.wav",
+  "avl_buskman_shake_tambourine/avl_buskman_shake_tambourine_vel097.wav",
+  "avl_buskman_shake_tambourine/avl_buskman_shake_tambourine_vel109.wav",
+  "avl_buskman_shake_tambourine/avl_buskman_shake_tambourine_vel121.wav"
+ ],
+ "avl_buskman_conga_small_lh": [
+  "avl_buskman_conga_small_lh/avl_buskman_conga_small_lh_vel007.wav",
+  "avl_buskman_conga_small_lh/avl_buskman_conga_small_lh_vel020.wav",
+  "avl_buskman_conga_small_lh/avl_buskman_conga_small_lh_vel033.wav",
+  "avl_buskman_conga_small_lh/avl_buskman_conga_small_lh_vel046.wav",
+  "avl_buskman_conga_small_lh/avl_buskman_conga_small_lh_vel059.wav",
+  "avl_buskman_conga_small_lh/avl_buskman_conga_small_lh_vel072.wav",
+  "avl_buskman_conga_small_lh/avl_buskman_conga_small_lh_vel085.wav",
+  "avl_buskman_conga_small_lh/avl_buskman_conga_small_lh_vel097.wav",
+  "avl_buskman_conga_small_lh/avl_buskman_conga_small_lh_vel109.wav",
+  "avl_buskman_conga_small_lh/avl_buskman_conga_small_lh_vel121.wav"
+ ],
+ "avl_buskman_bump_tambourine": [
+  "avl_buskman_bump_tambourine/avl_buskman_bump_tambourine_vel007.wav",
+  "avl_buskman_bump_tambourine/avl_buskman_bump_tambourine_vel020.wav",
+  "avl_buskman_bump_tambourine/avl_buskman_bump_tambourine_vel033.wav",
+  "avl_buskman_bump_tambourine/avl_buskman_bump_tambourine_vel046.wav",
+  "avl_buskman_bump_tambourine/avl_buskman_bump_tambourine_vel059.wav",
+  "avl_buskman_bump_tambourine/avl_buskman_bump_tambourine_vel072.wav",
+  "avl_buskman_bump_tambourine/avl_buskman_bump_tambourine_vel085.wav",
+  "avl_buskman_bump_tambourine/avl_buskman_bump_tambourine_vel097.wav",
+  "avl_buskman_bump_tambourine/avl_buskman_bump_tambourine_vel109.wav",
+  "avl_buskman_bump_tambourine/avl_buskman_bump_tambourine_vel121.wav"
+ ],
+ "avl_buskman_conga_small_rh": [
+  "avl_buskman_conga_small_rh/avl_buskman_conga_small_rh_vel007.wav",
+  "avl_buskman_conga_small_rh/avl_buskman_conga_small_rh_vel020.wav",
+  "avl_buskman_conga_small_rh/avl_buskman_conga_small_rh_vel033.wav",
+  "avl_buskman_conga_small_rh/avl_buskman_conga_small_rh_vel046.wav",
+  "avl_buskman_conga_small_rh/avl_buskman_conga_small_rh_vel059.wav",
+  "avl_buskman_conga_small_rh/avl_buskman_conga_small_rh_vel072.wav",
+  "avl_buskman_conga_small_rh/avl_buskman_conga_small_rh_vel085.wav",
+  "avl_buskman_conga_small_rh/avl_buskman_conga_small_rh_vel097.wav",
+  "avl_buskman_conga_small_rh/avl_buskman_conga_small_rh_vel109.wav",
+  "avl_buskman_conga_small_rh/avl_buskman_conga_small_rh_vel121.wav"
+ ],
+ "avl_buskman_claves": [
+  "avl_buskman_claves/avl_buskman_claves_vel007.wav",
+  "avl_buskman_claves/avl_buskman_claves_vel020.wav",
+  "avl_buskman_claves/avl_buskman_claves_vel033.wav",
+  "avl_buskman_claves/avl_buskman_claves_vel046.wav",
+  "avl_buskman_claves/avl_buskman_claves_vel059.wav",
+  "avl_buskman_claves/avl_buskman_claves_vel072.wav",
+  "avl_buskman_claves/avl_buskman_claves_vel085.wav",
+  "avl_buskman_claves/avl_buskman_claves_vel097.wav",
+  "avl_buskman_claves/avl_buskman_claves_vel109.wav",
+  "avl_buskman_claves/avl_buskman_claves_vel121.wav"
+ ],
+ "avl_buskman_cymbal": [
+  "avl_buskman_cymbal/avl_buskman_cymbal_vel007.wav",
+  "avl_buskman_cymbal/avl_buskman_cymbal_vel020.wav",
+  "avl_buskman_cymbal/avl_buskman_cymbal_vel033.wav",
+  "avl_buskman_cymbal/avl_buskman_cymbal_vel046.wav",
+  "avl_buskman_cymbal/avl_buskman_cymbal_vel059.wav",
+  "avl_buskman_cymbal/avl_buskman_cymbal_vel072.wav",
+  "avl_buskman_cymbal/avl_buskman_cymbal_vel085.wav",
+  "avl_buskman_cymbal/avl_buskman_cymbal_vel097.wav",
+  "avl_buskman_cymbal/avl_buskman_cymbal_vel109.wav",
+  "avl_buskman_cymbal/avl_buskman_cymbal_vel121.wav"
+ ],
+ "avl_buskman_cymbal_bell": [
+  "avl_buskman_cymbal_bell/avl_buskman_cymbal_bell_vel007.wav",
+  "avl_buskman_cymbal_bell/avl_buskman_cymbal_bell_vel020.wav",
+  "avl_buskman_cymbal_bell/avl_buskman_cymbal_bell_vel033.wav",
+  "avl_buskman_cymbal_bell/avl_buskman_cymbal_bell_vel046.wav",
+  "avl_buskman_cymbal_bell/avl_buskman_cymbal_bell_vel059.wav",
+  "avl_buskman_cymbal_bell/avl_buskman_cymbal_bell_vel072.wav",
+  "avl_buskman_cymbal_bell/avl_buskman_cymbal_bell_vel085.wav",
+  "avl_buskman_cymbal_bell/avl_buskman_cymbal_bell_vel097.wav",
+  "avl_buskman_cymbal_bell/avl_buskman_cymbal_bell_vel109.wav",
+  "avl_buskman_cymbal_bell/avl_buskman_cymbal_bell_vel121.wav"
+ ],
+ "avl_buskman_cowbell": [
+  "avl_buskman_cowbell/avl_buskman_cowbell_vel007.wav",
+  "avl_buskman_cowbell/avl_buskman_cowbell_vel020.wav",
+  "avl_buskman_cowbell/avl_buskman_cowbell_vel033.wav",
+  "avl_buskman_cowbell/avl_buskman_cowbell_vel046.wav",
+  "avl_buskman_cowbell/avl_buskman_cowbell_vel059.wav",
+  "avl_buskman_cowbell/avl_buskman_cowbell_vel072.wav",
+  "avl_buskman_cowbell/avl_buskman_cowbell_vel085.wav",
+  "avl_buskman_cowbell/avl_buskman_cowbell_vel097.wav",
+  "avl_buskman_cowbell/avl_buskman_cowbell_vel109.wav",
+  "avl_buskman_cowbell/avl_buskman_cowbell_vel121.wav"
+ ],
+ "avl_buskman_foot_stomp": [
+  "avl_buskman_foot_stomp/avl_buskman_foot_stomp_vel007.wav",
+  "avl_buskman_foot_stomp/avl_buskman_foot_stomp_vel020.wav",
+  "avl_buskman_foot_stomp/avl_buskman_foot_stomp_vel033.wav",
+  "avl_buskman_foot_stomp/avl_buskman_foot_stomp_vel046.wav",
+  "avl_buskman_foot_stomp/avl_buskman_foot_stomp_vel059.wav",
+  "avl_buskman_foot_stomp/avl_buskman_foot_stomp_vel072.wav",
+  "avl_buskman_foot_stomp/avl_buskman_foot_stomp_vel085.wav",
+  "avl_buskman_foot_stomp/avl_buskman_foot_stomp_vel097.wav",
+  "avl_buskman_foot_stomp/avl_buskman_foot_stomp_vel109.wav",
+  "avl_buskman_foot_stomp/avl_buskman_foot_stomp_vel121.wav"
+ ],
+ "avl_buskman_bucket": [
+  "avl_buskman_bucket/avl_buskman_bucket_vel007.wav",
+  "avl_buskman_bucket/avl_buskman_bucket_vel020.wav",
+  "avl_buskman_bucket/avl_buskman_bucket_vel033.wav",
+  "avl_buskman_bucket/avl_buskman_bucket_vel046.wav",
+  "avl_buskman_bucket/avl_buskman_bucket_vel059.wav",
+  "avl_buskman_bucket/avl_buskman_bucket_vel072.wav",
+  "avl_buskman_bucket/avl_buskman_bucket_vel085.wav",
+  "avl_buskman_bucket/avl_buskman_bucket_vel097.wav",
+  "avl_buskman_bucket/avl_buskman_bucket_vel109.wav",
+  "avl_buskman_bucket/avl_buskman_bucket_vel121.wav"
+ ],
+ "avl_buskman_bell_tree_down": [
+  "avl_buskman_bell_tree_down/avl_buskman_bell_tree_down_vel013.wav",
+  "avl_buskman_bell_tree_down/avl_buskman_bell_tree_down_vel039.wav",
+  "avl_buskman_bell_tree_down/avl_buskman_bell_tree_down_vel065.wav",
+  "avl_buskman_bell_tree_down/avl_buskman_bell_tree_down_vel090.wav",
+  "avl_buskman_bell_tree_down/avl_buskman_bell_tree_down_vel115.wav"
+ ],
+ "avl_buskman_bell_tree_up": [
+  "avl_buskman_bell_tree_up/avl_buskman_bell_tree_up_vel013.wav",
+  "avl_buskman_bell_tree_up/avl_buskman_bell_tree_up_vel039.wav",
+  "avl_buskman_bell_tree_up/avl_buskman_bell_tree_up_vel065.wav",
+  "avl_buskman_bell_tree_up/avl_buskman_bell_tree_up_vel090.wav",
+  "avl_buskman_bell_tree_up/avl_buskman_bell_tree_up_vel115.wav"
+ ]
+}

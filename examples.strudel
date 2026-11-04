@@ -1,0 +1,15 @@
+// One pattern for each kit. Load the library first:
+samples('github:playbenny/avl-drumkits-strudel')
+
+// Black Pearl
+$: s("avl_pearl_kick ~ avl_pearl_snare ~, avl_pearl_hat_closed*8").velocity(.8)
+// Blonde Bop
+$: s("avl_blondebop_kick ~ avl_blondebop_snare ~, avl_blondebop_ride_tip*4").velocity(.7)
+// Blonde Bop HR
+$: s("avl_blondebophr_kick ~ avl_blondebophr_snare_center ~, avl_blondebophr_hat_closed*8").velocity(.8)
+// Red Zeppelin
+$: s("avl_redzep_kick*2 avl_redzep_snare avl_redzep_kick avl_redzep_snare, avl_redzep_hat_closed*8").velocity(.9)
+// Buskman's Holiday
+$: s("avl_buskman_cajon_thump avl_buskman_cajon_slap_rh avl_buskman_conga_small_lh avl_buskman_conga_large_rh, avl_buskman_triple_shaker*8").velocity(.7)
+// the five layers of one piece, soft to hard
+$: n("0 1 2 3 4").s("avl_pearl_snare")
